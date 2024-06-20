@@ -1,5 +1,4 @@
 package baseOfJava.classes;
-
 import java.util.Scanner;
 
 public class Input {
