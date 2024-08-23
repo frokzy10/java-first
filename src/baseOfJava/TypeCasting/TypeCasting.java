@@ -22,7 +22,6 @@ public class TypeCasting {
 //          DownCasting
 //        Dog dog2 = (Dog) animal;
 //        dog2.bark();
-
 //          ErrorCasting
         Animal a = new Animal();
         Dog d = (Dog) a;

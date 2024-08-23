@@ -1,5 +1,8 @@
 package baseOfJava.classes;
+import other.JFrameSwing.Jframe;
+
 import java.util.Scanner;
+
 
 public class Input {
     public static void main(String[] args){
